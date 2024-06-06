@@ -1,7 +1,7 @@
 # Dynamic Ecommerce Sales Analysis Dashboard
-This project showcases a comprehensive Excel dashboard designed to analyze e-commerce sales data. The dashboard includes several advanced features and functionalities, such as:
+This project showcases a comprehensive Excel Dynamic dashboard for analyzing e-commerce sales data. The dashboard includes several advanced features and functionalities, such as:
 
-Dashboard Development: Structured and intuitive layout.
+- Dashboard Development: Structured and intuitive layout.
 - Calculated Fields: Enhanced data analysis through custom calculations.
 - Layout and Design: Professional and user-friendly interface.
 - Custom Charts and Maps: Unique visualizations tailored for e-commerce data.
